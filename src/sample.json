@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Liverpool vs. Real Madrid - Football Match Report - May 28, 2022 - ESPN",
+      "description": "Get a report of the Liverpool vs. Real Madrid 2021-22 UEFA Champions League, Final football match.",
+      "url": "http://espn.go.com/soccer/report?gameId=634861",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0528%2Fr1018519_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-05-28T23:37:22.6709755Z",
+      "content": "Vinicius Junior scored in the second half to help Real Madrid clinch the 2021-22 Champions League title. Friedemann Vogal/EPA\r\nA Vinicius Junior strike helped Real Madrid to a record-14th Champions L… [+4241 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "Reds' Pham suspended 3 games for slapping Giants' Pederson",
+      "description": "San Francisco Giants outfielder Joc Pederson said Reds outfielder Tommy Pham slapped him over a fantasy football dispute.",
+      "url": "http://www.foxsports.com/stories/mlb/reds-pham-suspended-3-games-for-slapping-giants-pederson",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/1408/814/joc-wide-052822-1.jpg?ve=1&tl=1",
+      "publishedAt": "2022-05-28T18:28:38Z",
+      "content": "San Francisco Giants outfielder Joc Pederson said Cincinnati Reds outfielder Tommy Pham slapped him prior to Fridays series opener over a dispute about their fantasy football league.\r\nWhile the Giant… [+2526 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Cincinnati Reds' Tommy Pham suspended three games for slapping Joc Pederson",
+      "description": "Reds outfielder Tommy Pham has been suspended three games for slapping the Giants' Joc Pederson in the cheek over a fantasy football dispute.",
+      "url": "http://espn.go.com/mlb/story/_/id/33999857/cincinnati-reds-tommy-pham-suspended-three-games-slapping-joc-pederson",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F1104%2Fr22911_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-05-28T17:59:00Z",
+      "content": "Cincinnati Reds outfielder Tommy Pham on Saturday said he agreed to a three-game suspension for slapping San Francisco Giants outfielder Joc Pederson in the cheek over a fantasy football dispute prio… [+1160 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x729.jpg",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
